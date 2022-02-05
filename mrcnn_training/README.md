@@ -16,9 +16,15 @@ Main aim of this mrcnn git is to train MRCNN to detect
 Downloaded Images of respective problem from google and annotate them with the help of [VIA Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/via.html)
 
 * I used Polygons to annotate images
-    * <img src="/mrcnn_training/extras/pimples.png"  width="200" height="200">
-    * Wrinkles ![Wrinkles](/mrcnn_training/extras/wrinkes.png)
-    * EyeBags ![EyeBags](/mrcnn_training/extras/eyebags.JPG)
+    * Pimples
+         
+         <img src="/mrcnn_training/extras/pimples.png"  width="200" height="200">
+    * Wrinkles 
+       
+        <img src="/mrcnn_training/extras/wrinkes.png"  width="200" height="200">
+    * EyeBags 
+        
+        <img src="/mrcnn_training/extras/eyebags.JPG"  width="200" height="200">
 
 
 ## Augmentation:
