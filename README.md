@@ -14,6 +14,7 @@ We are using different object detection models to detect eye bags, wrinkles, pim
 ## Resources Working on this branch
 
 * [Sohaib Anwaar](https://www.sohaibanwaar.com) - Project lead
-* [Hussnain](https://www.linkedin.com/in/hafiz-hussnain-zafar-zafar-yasin-529816211/) - Junior Resource 
-* [Faraz](https://www.linkedin.com/in/faraz-tariq-aa781916b) - Junior Resource 
-* [Moid](linkedin.com/in/mòòñ-ķhæñ-a02179177) - Junior Resource 
+* [Hussnain](https://www.linkedin.com/in/hafiz-hussnain-zafar-zafar-yasin-529816211/) - Junior Python Developer
+* [Faraz](https://www.linkedin.com/in/faraz-tariq-aa781916b) - Junior Python Developer
+* [Moid](linkedin.com/in/mòòñ-ķhæñ-a02179177) - Junior Python Developer
+* [Mohsin] (linkedin.com/in/mohsin-ali-436134209) - Junior Python Developer / Content Manager

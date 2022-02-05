@@ -21,7 +21,7 @@ Downloaded Images of respective problem from google and annotate them with the h
          <img src="/mrcnn_training/extras/pimples.png"  width="200" height="200">
     * Wrinkles 
        
-        <img src="/mrcnn_training/extras/wrinkes.png"  width="200" height="200">
+        <img src="/mrcnn_training/extras/wrinkles.png"  width="200" height="200">
     * EyeBags 
         
         <img src="/mrcnn_training/extras/eyebags.JPG"  width="200" height="200">
