@@ -6,10 +6,19 @@ complicated to made a tensorflow code which is compatible with nvidia 3000 serie
 seat belts, we are going to start our drive.
 
 # Introduction:
-Main Aim of this repository is see if the peditraians are following the road-crossing rules or not. Means if they are walking on zebra-crossing or not.
+Main aim of this mrcnn git is to train MRCNN to detect
+* Eye-Bags
+* Wrinkles
+* Pimples
+* Glasses
 
 # Making Dataset.
-I took data-frame from one of factory video camera annotate them and than do some training on the annotated images
+Downloaded Images of respective problem from google and annotate them with the help of [VIA Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/via.html)
+
+* I used Polygons to annotate images
+    * <img src="/mrcnn_training/extras/pimples.png"  width="200" height="200">
+    * Wrinkles ![Wrinkles](/mrcnn_training/extras/wrinkes.png)
+    * EyeBags ![EyeBags](/mrcnn_training/extras/eyebags.JPG)
 
 
 ## Augmentation:
@@ -22,7 +31,7 @@ After doing the augmentations just give path of the directory where you augmenta
 
 You just need to give the augmented images here.
 
-![dataset path](./extras/datasetpath.png)
+
 
 <br>
 
@@ -41,7 +50,7 @@ After training you have to open predict notebook. Specify weights path and testi
 
 
 
-![prediction path](./extras/_138_.jpg)
+![prediction path]
 
 
 ## Feel free to ask any question Thank you
@@ -51,7 +60,7 @@ After training you have to open predict notebook. Specify weights path and testi
 
 # Author 
 
-* Sohaib Anwaar
+* Sohaib Anwaar  : [Portfolio](https:www.sohaibanwaar.com)
 * gmail          : sohaibanwaar36@gmail.com
 * linkedin       : [Have Some Professional Talk here](https://www.linkedin.com/in/sohaib-anwaar-4b7ba1187/)
 * Stack Overflow : [Get my help Here](https://stackoverflow.com/users/7959545/sohaib-anwaar)
