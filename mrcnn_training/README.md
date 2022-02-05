@@ -56,7 +56,6 @@ After training you have to open predict notebook. Specify weights path and testi
 
 
 
-![prediction path]
 
 
 ## Feel free to ask any question Thank you
