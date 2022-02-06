@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2022-02-06T07:23:34.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" version="16.5.3" etag="tRGvqnBAbDyPi8XUPo8d" type="github"><diagram id="vABhgpkjcpLw2Uvn5AqJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-06T11:52:54.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="yxeynlh1_xP8f9zA8BVM" version="16.5.3" type="github">
+  <diagram id="vABhgpkjcpLw2Uvn5AqJ" name="Page-1">
+    <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nYFXDmkb_H0RL_jhprqa-1" target="nYFXDmkb_H0RL_jhprqa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-1" value="Service No 1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nYFXDmkb_H0RL_jhprqa-2" target="nYFXDmkb_H0RL_jhprqa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-2" value="Service No 2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nYFXDmkb_H0RL_jhprqa-3" target="nYFXDmkb_H0RL_jhprqa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-3" value="Service No 3&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nYFXDmkb_H0RL_jhprqa-4" target="nYFXDmkb_H0RL_jhprqa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-4" value="redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="110" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nYFXDmkb_H0RL_jhprqa-5" target="nYFXDmkb_H0RL_jhprqa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-5" value="redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nYFXDmkb_H0RL_jhprqa-6" target="nYFXDmkb_H0RL_jhprqa-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-6" value="redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nYFXDmkb_H0RL_jhprqa-14" target="nYFXDmkb_H0RL_jhprqa-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-14" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="585" width="70" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nYFXDmkb_H0RL_jhprqa-15" target="nYFXDmkb_H0RL_jhprqa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-15" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nYFXDmkb_H0RL_jhprqa-20" target="nYFXDmkb_H0RL_jhprqa-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="765" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-20" value="Global Mongo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="710" y="410" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="nYFXDmkb_H0RL_jhprqa-23" value="&lt;h1&gt;Redis&lt;/h1&gt;&lt;p&gt;1. Redis Acts like a queue, Store all of the of the request asyncronusly, process them and pass to the next service&lt;/p&gt;&lt;p&gt;2. A crone job will delete&lt;/p&gt;processed&amp;nbsp;&lt;span&gt;data after some after stroing it into the mongo db for later use&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=default;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="100" width="190" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
