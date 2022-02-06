@@ -15,16 +15,37 @@ Main aim of this mrcnn git is to train MRCNN to detect
 # Making Dataset.
 Downloaded Images of respective problem from google and annotate them with the help of [VIA Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/via.html)
 
-* I used Polygons to annotate images
-    * Pimples
-         
-         <img src="/mrcnn_training/extras/pimples.png"  width="200" height="200">
-    * Wrinkles 
-       
-        <img src="/mrcnn_training/extras/wrinkles.png"  width="200" height="200">
-    * EyeBags 
+* For Annotations select the following Settings
+    * Open the VIA annotator"
+    * Remove files from images
+    * Delete all of the attributes 
+        * Go to the Region Attributes (At the bottom)
+        * Write name of Attrubute in (attribute name field)
+        * click on '-' to delete
+        * Perform the steps above again and delete all of the attributes
+        <img src="image_augmentation/extras/annotations_SS/remove_attributes.png"  width="200" height="200">
+    * Add Attributes
+        * First select polygons
+            * <img src="image_augmentation/extras/annotations_SS/select_polygon.png"  width="300" height="100">
+        * Now add 1 attribute name it as class 
+        * Select type checkbox
+        * Add first id as empty string ''
+        * Add the other objects you want to annotation
+            * Like I add Wrinkles
+            <img src="image_augmentation/extras/annotations_SS/add_attributes.png"  width="150" height="250">
+        * Add files
+            <img src="image_augmentation/extras/annotations_SS/add_images.png"  width="150" height="250">
+        * Start annotation
+
+* Pimples
         
-        <img src="/mrcnn_training/extras/eyebags.JPG"  width="200" height="200">
+     <img src="/mrcnn_training/extras/pimples.png"  width="200" height="200">
+* Wrinkles 
+    
+    <img src="/mrcnn_training/extras/wrinkles.png"  width="200" height="200">
+* EyeBags 
+    
+    <img src="/mrcnn_training/extras/eyebags.JPG"  width="200" height="200">
 
 
 ## Augmentation:
