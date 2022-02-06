@@ -23,10 +23,10 @@ Downloaded Images of respective problem from google and annotate them with the h
         * Write name of Attrubute in (attribute name field)
         * click on '-' to delete
         * Perform the steps above again and delete all of the attributes
-        <img src="image_augmentation/extras/annotations_SS/remove_attributes.png"  width="200" height="200">
+        <img src="/image_augmentation/extras/annotations_SS/remove_attributes.png"  width="200" height="200">
     * Add Attributes
         * First select polygons
-            * <img src="image_augmentation/extras/annotations_SS/select_polygon.png"  width="300" height="100">
+            * <img src="/image_augmentation/extras/annotations_SS/select_polygon.png"  width="300" height="100">
         * Now add 1 attribute name it as class 
         * Select type checkbox
         * Add first id as empty string ''
