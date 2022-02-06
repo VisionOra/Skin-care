@@ -50,8 +50,12 @@ Downloaded Images of respective problem from google and annotate them with the h
 
 ## Augmentation:
 
-After doing all the annotation things I rotate the image and polygons at every angle (0, 360) you can easily use my notebook to get done with your annotations. Its really complicated to use sin and cos to rotate a point with respect to the image. lol
+In Augmenation we are 
+* Rotating on given angles
+* Random Brightness
+* Random sharpness
 
+[Image Augmentation Folder](image_augmentation/readme.md)
 ## Training
 
 After doing the augmentations just give path of the directory where you augmentated the data. If you have done augmentation from the notebook above than your augmentation will probably be on the path where json is located.

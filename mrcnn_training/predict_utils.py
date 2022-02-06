@@ -94,7 +94,7 @@ def predict(model, image_path, labels, max_score = 0.9):
             r = dict({"scores" : np.asarray(scores), "class_ids" : np.asarray(class_ids), "masks" : np.asarray(mask), "rois" : np.asarray(rois)} )   
             r['masks'] = np.rollaxis((r['masks']), 0, 3)
         else:
-            return image , dict({}), 0
+            return image , dict({})
     
     
     
