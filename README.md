@@ -14,7 +14,12 @@ Step by Step Algorithm
 * Eyebags Detection
 * Recommendation on the base of above calculated score.
 
-# Architecture
+# Pipeline
+
+![Pipeline](/Diagrams/Pipeline.drawio.png)
+
+# Artifical Intelligence / backend Architecture
+![Pipeline](/Diagrams/architecture.drawio.png)
 
 # Tools and Techs
 
