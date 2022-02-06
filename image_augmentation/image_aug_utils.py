@@ -360,7 +360,7 @@ def save_mrcnn_labels(augmented_images,json_file_path ,classes):
         image_name, extension = ".".join(parts[:-1]), parts[-1]
         
         # Creating key for every augmented image
-        key = image_name + ".json"
+        key = image_name
         mrcnn_data[key] = dict()
         mrcnn_data[key]['filename'] = image_name
         mrcnn_data[key]['file_attributes'] = dict()

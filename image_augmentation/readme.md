@@ -16,11 +16,10 @@ This folder helps you in augment your images which you just annotated.
 
 ```python
 # Directory in which images exists 
-DIR_PATH = "/media/sohaib/additional_/DataScience/Upwork_orders/people_walk_in_zebra_crossing/Mask---RCNN-Polygons-/data/zebra_crossing/"
+DIR_PATH = "../Annotated_images/wrinkles/"
 
 # Json File Path
-doc_labels = "/media/sohaib/additional_/DataScience/Upwork_orders/people_walk_in_zebra_crossing/Mask---RCNN-Polygons-/data/zebra_crossing/annotation_file.json"
-
+doc_labels = "../Annotated_images/wrinkles/via_project_5Feb2022_19h30m.json"
 
 ```
 
