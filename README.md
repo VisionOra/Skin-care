@@ -14,6 +14,10 @@ Step by Step Algorithm
 * Eyebags Detection
 * Recommendation on the base of above calculated score.
 
+# Branches
+* main: Main Pipeline
+* Model_experimentation: Deep learning/AI model experimentation
+
 # Pipeline
 
 ![Pipeline](/Diagrams/Pipeline.drawio.png)
