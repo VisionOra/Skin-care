@@ -1,5 +1,8 @@
-#
+# Self Added
 *.DS_Store
+*val/
+*train/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
