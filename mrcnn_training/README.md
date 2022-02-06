@@ -32,9 +32,9 @@ Downloaded Images of respective problem from google and annotate them with the h
         * Add first id as empty string ''
         * Add the other objects you want to annotation
             * Like I add Wrinkles
-            <img src="image_augmentation/extras/annotations_SS/add_attributes.png"  width="150" height="250">
+            <img src="/image_augmentation/extras/annotations_SS/add_attributes.png"  width="150" height="250">
         * Add files
-            <img src="image_augmentation/extras/annotations_SS/add_images.png"  width="150" height="250">
+            <img src="/image_augmentation/extras/annotations_SS/add_images.png"  width="150" height="250">
         * Start annotation
 
 * Pimples
