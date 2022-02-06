@@ -32,20 +32,20 @@ Your augmented annotations looks like these
 
 Sample 1
 
-![Image Augment 1](./extras/1.png)
+![Image Augment 1](./extras/a1.png)
 
 <br><br>
 
 Sample 2
 
-![Image Augment 2](./extras/2.png)
+![Image Augment 2](./extras/a2.png)
 
 
 <br><br>
 
 Sample 3
 
-![Image Augment 3](./extras/3.png)
+![Image Augment 3](./extras/a3.png)
 
 
 # Author 
